@@ -42,10 +42,10 @@ README.md es una descripción de tu proyecto y es una buena práctica incluirlo 
 de estar en formato markdown.
 6. Crea un nuevo archivo llamado instrucciones.md: Copia toda la información de esta actividad al
 archivo en formato markdown.
-**¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y
-el archivo instrucciones.md que acabas de generar.**
+
+*¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y el archivo instrucciones.md que acabas de generar.*
 # Paso 4: Clona tu repositorio en tu computadora
-Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.
+*Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.*
 1. En la página de tu repositorio en GitHub: Busca el botón verde "Code" y haz clic en él.
 2. Copia la URL HTTPS: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente
 hay un icono para copiar al portapapeles).
