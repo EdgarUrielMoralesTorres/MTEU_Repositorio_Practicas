@@ -1,3 +1,3 @@
 # Datos Personales
-- Edgar Uriel Morales Torres 
-- 5-D
+- Nombre= Edgar Uriel Morales Torres 
+- Grado= 5-D
