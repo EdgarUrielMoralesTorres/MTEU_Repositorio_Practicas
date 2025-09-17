@@ -9,7 +9,7 @@ una variación) porque será público y te representará en la comunidad de desa
 4. Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico.
 ¡Felicidades! Ya eres parte de la comunidad de GitHub.
 # Paso 2: Instala y configura Git en tu computadora
-Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.
+*Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.*
 1. Descarga Git: Ve a [git-scm.com/downloads](git-scm.com/downloads) y descarga el instalador para tu sistema operativo
 (Windows, macOS o Linux).
 2. Instala Git: Ejecuta el instalador y sigue los pasos. En la mayoría de los casos, puedes dejar las
@@ -22,9 +22,9 @@ o El --global significa que esta configuración se aplicará a todos tus proyect
 computadora. Git almacenará esto en un archivo llamado .gitconfig.
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:
 7. git config --global --list
-Deberías ver tu nombre de usuario y correo electrónico en la lista.
+*Deberías ver tu nombre de usuario y correo electrónico en la lista.*
 # Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)
-Vamos a crear un espacio para tu proyecto en la nube de GitHub.
+*Vamos a crear un espacio para tu proyecto en la nube de GitHub.*
 1. Inicia sesión en GitHub: Si no lo estás, entra a GitHub.com con tu nueva cuenta.
 2. Crea un nuevo repositorio: En la esquina superior derecha, busca un signo de más (+) y haz clic en
 "New repository" (Nuevo repositorio).
@@ -42,8 +42,8 @@ README.md es una descripción de tu proyecto y es una buena práctica incluirlo 
 de estar en formato markdown.
 6. Crea un nuevo archivo llamado instrucciones.md: Copia toda la información de esta actividad al
 archivo en formato markdown.
-¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y
-el archivo instrucciones.md que acabas de generar.
+**¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y
+el archivo instrucciones.md que acabas de generar.**
 # Paso 4: Clona tu repositorio en tu computadora
 Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente.
 1. En la página de tu repositorio en GitHub: Busca el botón verde "Code" y haz clic en él.
