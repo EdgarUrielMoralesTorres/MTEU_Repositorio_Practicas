@@ -7,6 +7,7 @@
 o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o
 una variación) porque será público y te representará en la comunidad de desarrolladores.
 4. Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico.
+
 *¡Felicidades! Ya eres parte de la comunidad de GitHub.*
 # Paso 2: Instala y configura Git en tu computadora
 *Git es la herramienta que te permitirá interactuar con GitHub desde tu computadora.*
