@@ -4,7 +4,7 @@
 1. Ve al sitio web: Abre tu navegador y visita GitHub.com.
 2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse".
 3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.
-o Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o una variación) porque será público y te representará en la comunidad de desarrolladores.
+- Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o una variación) porque será público y te representará en la comunidad de desarrolladores.
 4. Verifica tu cuenta: Sigue las instrucciones para verificar tu correo electrónico.
 
 *¡Felicidades! Ya eres parte de la comunidad de GitHub.*
@@ -18,10 +18,11 @@ opciones predeterminadas.
 Terminal y ejecuta los siguientes comandos, reemplazando con tu nombre y correo electrónico:
 4. `git config --global user.name "Tu Nombre Completo"`
 5. `git config --global user.email "tu.email@ejemplo.com"`
-o El --global significa que esta configuración se aplicará a todos tus proyectos en esta
+
+o El `--global` significa que esta configuración se aplicará a todos tus proyectos en esta
 computadora. Git almacenará esto en un archivo llamado .gitconfig.
 6. Verifica la configuración: Para asegurarte de que todo está correcto, ejecuta:
-7. git config --global --list
+7. `git config --global --list`
 *Deberías ver tu nombre de usuario y correo electrónico en la lista.*
 ## Paso 3: Crea tu primer repositorio en GitHub (¡usando la interfaz web!)
 *Vamos a crear un espacio para tu proyecto en la nube de GitHub.*
